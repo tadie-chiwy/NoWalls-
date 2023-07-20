@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'rennes';
+    font-style: normal;
+    font-weight: 100;
+    src:url("Rennes\ Regular.ttf")
+}
+@font-face{
+    font-family: 'baloo';
+    font-style: normal;
+    font-weight: 100;
+    src:url("baloo/Baloo-Regular.ttf")
+}
